@@ -5,7 +5,7 @@ The purpose of this analysis is to provide a more in-depth analysis of UFO sight
 ## Results
 Now that we've added more filters for users to interact with, users will now be able to sort through data to find UFO sightings of similar criteria. For example, if someone wanted all of the UFO sightings in the US on 1/10/2010 they will get the following search results:
 
-![This is an image]()
+![This is an image](https://github.com/kellyd7/UFOs/blob/main/static/images/webpage_image1.png)
 
 These filters will now allow users to create a variety of searches and produce a number of different filtered results.
 
